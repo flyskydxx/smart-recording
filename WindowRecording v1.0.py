@@ -1,8 +1,14 @@
 '''
 author @ Xiaoxiao DONG
+debug @ Zoey Zhu
 date: 20240825
 version: 1.0
 This script is used to record the window screen and save it to image.
+
+known issues:
+1. add sound recording function
+2. fix the bug of powerpoint recording caused by the animation
+3. add GUI for the user to choose the window
 '''
 
 import cv2
